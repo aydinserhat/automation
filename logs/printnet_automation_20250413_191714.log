@@ -1,0 +1,1347 @@
+2025-04-13 19:17:14,319 - INFO - Logging initialized. Log file: C:\Users\g.yilmaz\Desktop\Magento_otomation\Done\logs\printnet_automation_20250413_191714.log
+2025-04-13 19:17:14,319 - INFO - Logging initialized. Log file: C:\Users\g.yilmaz\Desktop\Magento_otomation\Done\logs\skynet_fixed_price_20250413_191714.log
+2025-04-13 19:17:14,327 - INFO - Logging initialized. Log file: C:\Users\g.yilmaz\Desktop\Magento_otomation\Done\logs\printnet_fixed_price_20250413_191714.log
+2025-04-13 19:17:14,359 - INFO - Logging initialized. Log file: C:\Users\g.yilmaz\Desktop\Magento_otomation\Done\logs\skynet_page_options_20250413_191714.log
+2025-04-13 19:17:15,845 - INFO - Toplam 1 ürün eklenecek.
+2025-04-13 19:17:15,846 - INFO - ====== WebDriver manager ======
+2025-04-13 19:17:17,199 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-13 19:17:17,327 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-13 19:17:17,403 - INFO - Driver [C:\Users\g.yilmaz\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-13 19:17:18,512 - INFO - Chrome WebDriver initialized successfully
+2025-04-13 19:17:18,521 - INFO - Navigating to https://skynet.networkhero.eu/y5id_dashboard/admin/
+2025-04-13 19:17:19,578 - INFO - Username entered
+2025-04-13 19:17:19,681 - INFO - Password entered
+2025-04-13 19:17:20,111 - INFO - Login button clicked
+2025-04-13 19:17:20,111 - INFO - Waiting for you to enter Google Authenticator code...
+2025-04-13 19:17:25,791 - INFO - Login successful
+2025-04-13 19:17:25,791 - INFO - Clicking on CLOUDLAB icon using the Catalog approach...
+2025-04-13 19:17:25,852 - INFO - Clicked on CLOUDLAB icon using Catalog approach
+2025-04-13 19:17:25,852 - INFO - Successfully clicked on CloudLab
+2025-04-13 19:17:25,852 - INFO - Clicking on Page Options submenu...
+2025-04-13 19:17:26,277 - INFO - Clicked on Page Options using XPath approach
+2025-04-13 19:17:26,317 - INFO - Successfully navigated to Page Options page
+2025-04-13 19:17:26,317 - INFO - Successfully clicked on Page Options
+2025-04-13 19:17:26,317 - INFO - Looking for Code search field
+2025-04-13 19:17:26,473 - INFO - Entered 'paper_wmd' in Code search field
+2025-04-13 19:17:27,527 - WARNING - Could not find search button, trying to press Enter instead: Message: 
+
+2025-04-13 19:17:27,592 - INFO - Pressed Enter to search
+2025-04-13 19:17:27,593 - INFO - Looking for the second Material option in search results
+2025-04-13 19:17:27,604 - INFO - Found 20 rows in the search results
+2025-04-13 19:17:27,752 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x0094336E]
+	(No symbol) [0x0096D04C]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,765 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,774 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,786 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,791 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,807 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,818 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,827 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,838 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,848 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,861 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,873 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,884 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,897 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,909 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,916 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,930 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,936 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00906DE7]
+	(No symbol) [0x009090DA]
+	(No symbol) [0x00909157]
+	(No symbol) [0x00947EF4]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093E131]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:27,936 - WARNING - Not enough rows found in search results
+2025-04-13 19:17:28,211 - INFO - Clicked on the first available Material element
+2025-04-13 19:17:28,211 - INFO - Successfully completed search and click workflow
+2025-04-13 19:17:28,211 - INFO - Looking for Page Option Values section
+2025-04-13 19:17:28,239 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:17:29,343 - INFO - Clicked on Page Option Values section
+2025-04-13 19:17:35,908 - INFO - Successfully found and clicked button via JavaScript: Clicked button: 
+    add new value
+
+2025-04-13 19:17:35,909 - INFO - Successfully clicked on Page Option Values and Add new Value
+2025-04-13 19:17:35,909 - INFO - Parsed 16 materials from name value: ['0,40 mm starker Chromokarton 255g für 1mm Mappen-Füllhöhe (zertifiziert mit PEFC-Siegel für Nachhaltigkeit), hohe Steifigkeit mit 1,6-fachem Volumen', '0,40 mm starker Chromokarton 255g für 3mm Mappen-Füllhöhe (zertifiziert mit PEFC-Siegel für Nachhaltigkeit), hohe Steifigkeit mit 1,6-fachem Volumen', '0,40 mm starker Chromokarton 255g für 5mm Mappen-Füllhöhe (zertifiziert mit PEFC-Siegel für Nachhaltigkeit), hohe Steifigkeit mit 1,6-fachem Volumen', '0,40 mm starker Chromokarton 255g für 10mm Mappen-Füllhöhe (zertifiziert mit PEFC-Siegel für Nachhaltigkeit), hohe Steifigkeit mit 1,6-fachem Volumen', '0,36 mm starker Bilderdruckkarton 350g matt für 1mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), mittlere Steifigkeit', '0,36 mm starker Naturkarton 300g hochweiß für 1mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), hohe Steifigkeit mit 1,3-fachem Volumen', '0,36 mm starker Recyclingkarton 300g weiß für 1mm Mappen-Füllhöhe (zertifiziert mit Blauer Engel und EU Ecolabel), mittlere Steifigkeit mit 1,25-fachem Volumen', '0,36 mm starker Bilderdruckkarton 350g matt für 3mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), mittlere Steifigkeit', '0,36 mm starker Naturkarton 300g hochweiß für 3mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), hohe Steifigkeit mit 1,3-fachem Volumen', '0,36 mm starker Recyclingkarton 300g weiß für 3mm Mappen-Füllhöhe (zertifiziert mit Blauer Engel und EU Ecolabel), mittlere Steifigkeit mit 1,25-fachem Volumen', '0,36 mm starker Bilderdruckkarton 350g matt für 5mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), mittlere Steifigkeit', '0,36 mm starker Naturkarton 300g hochweiß für 5mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), hohe Steifigkeit mit 1,3-fachem Volumen', '0,36 mm starker Recyclingkarton 300g weiß für 5mm Mappen-Füllhöhe (zertifiziert mit Blauer Engel und EU Ecolabel), mittlere Steifigkeit mit 1,25-fachem Volumen', '0,36 mm starker Bilderdruckkarton 350g matt für 10mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), mittlere Steifigkeit', '0,36 mm starker Naturkarton 300g hochweiß für 10mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), hohe Steifigkeit mit 1,3-fachem Volumen', '0,36 mm starker Recyclingkarton 300g weiß für 10mm Mappen-Füllhöhe (zertifiziert mit Blauer Engel und EU Ecolabel), mittlere Steifigkeit mit 1,25-fachem Volumen,']
+2025-04-13 19:17:35,911 - INFO - Parsed 16 materials from code value: ['mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_1mm_pefc_1_6vol', 'mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_3mm_pefc_1_6vol', 'mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_5mm_pefc_1_6vol', 'mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_10mm_pefc_1_6vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_bilderdruckkarton_350g_1mm_matt_fsc', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_naturkarton_300g_1mm_hochweiss_fsc_1_3vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_recyclingkarton_300g_1mm_weiss_blauer_eu_1_25vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_bilderdruckkarton_350g_3mm_matt_fsc', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_naturkarton_300g_3mm_hochweiss_fsc_1_3vol,', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_recyclingkarton_300g_3mm_weiss_blauer_eu_1_25vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_bilderdruckkarton_350g_5mm_matt_fsc', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_naturkarton_300g_5mm_hochweiss_fsc_1_3vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_recyclingkarton_300g_5mm_weiss_blauer_eu_1_25vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_bilderdruckkarton_350g_10mm_matt_fsc', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_naturkarton_300g_10mm_hochweiss_fsc_1_3vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_recyclingkarton_300g_10mm_weiss_blauer_eu_1_25vol']
+2025-04-13 19:17:35,911 - INFO - Processing material 1/16: Name=0,40 mm starker Chromokarton 255g für 1mm Mappen-Füllhöhe (zertifiziert mit PEFC-Siegel für Nachhaltigkeit), hohe Steifigkeit mit 1,6-fachem Volumen, Code=mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_1mm_pefc_1_6vol, Position=0
+2025-04-13 19:17:39,081 - INFO - JavaScript fill result for material 1: {'codeFieldFound': True, 'codeFieldValue': 'mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_1mm_pefc_1_6vol', 'nameFieldFound': True, 'nameFieldValue': '0,40 mm starker Chromokarton 255g für 1mm Mappen-Füllhöhe (zertifiziert mit PEFC-Siegel für Nachhaltigkeit), hohe Steifigkeit mit 1,6-fachem Volumen', 'positionFieldFound': True, 'positionFieldValue': '0'}
+2025-04-13 19:17:40,195 - INFO - Starting popup modal Save button click function
+2025-04-13 19:17:40,210 - INFO - Found modal popup
+2025-04-13 19:17:40,228 - WARNING - Could not find Save button in modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button#save, button.action-primary, button[title='Save'], button.primary"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093DD81]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:40,277 - WARNING - Title-based approach failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(), 'Page Option Value')]"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x00991022]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:40,290 - WARNING - JavaScript approach could not find modal Save button
+2025-04-13 19:17:40,290 - INFO - Looking for most recently added Save button
+2025-04-13 19:17:41,756 - INFO - Clicked most recently added Save button
+2025-04-13 19:17:41,756 - INFO - Successfully saved material 1
+2025-04-13 19:17:43,759 - INFO - Processing material 2/16: Name=0,40 mm starker Chromokarton 255g für 3mm Mappen-Füllhöhe (zertifiziert mit PEFC-Siegel für Nachhaltigkeit), hohe Steifigkeit mit 1,6-fachem Volumen, Code=mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_3mm_pefc_1_6vol, Position=0
+2025-04-13 19:17:43,759 - INFO - Refreshing page for material 2
+2025-04-13 19:17:45,153 - INFO - Page refreshed successfully
+2025-04-13 19:17:45,153 - INFO - Looking for Page Option Values section
+2025-04-13 19:17:45,168 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:17:46,269 - INFO - Clicked on Page Option Values section
+2025-04-13 19:17:52,442 - INFO - Successfully found and clicked button via JavaScript: Clicked button: 
+    add new value
+
+2025-04-13 19:17:56,553 - INFO - JavaScript fill result for material 2: {'codeFieldFound': True, 'codeFieldValue': 'mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_3mm_pefc_1_6vol', 'nameFieldFound': True, 'nameFieldValue': '0,40 mm starker Chromokarton 255g für 3mm Mappen-Füllhöhe (zertifiziert mit PEFC-Siegel für Nachhaltigkeit), hohe Steifigkeit mit 1,6-fachem Volumen', 'positionFieldFound': True, 'positionFieldValue': '0'}
+2025-04-13 19:17:57,661 - INFO - Starting popup modal Save button click function
+2025-04-13 19:17:57,679 - INFO - Found modal popup
+2025-04-13 19:17:57,692 - WARNING - Could not find Save button in modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button#save, button.action-primary, button[title='Save'], button.primary"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093DD81]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:57,721 - WARNING - Title-based approach failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(), 'Page Option Value')]"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x00991022]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:17:57,735 - WARNING - JavaScript approach could not find modal Save button
+2025-04-13 19:17:57,735 - INFO - Looking for most recently added Save button
+2025-04-13 19:17:58,120 - INFO - Clicked most recently added Save button
+2025-04-13 19:17:58,120 - INFO - Successfully saved material 2
+2025-04-13 19:18:00,121 - INFO - Processing material 3/16: Name=0,40 mm starker Chromokarton 255g für 5mm Mappen-Füllhöhe (zertifiziert mit PEFC-Siegel für Nachhaltigkeit), hohe Steifigkeit mit 1,6-fachem Volumen, Code=mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_5mm_pefc_1_6vol, Position=0
+2025-04-13 19:18:00,121 - INFO - Refreshing page for material 3
+2025-04-13 19:18:01,528 - INFO - Page refreshed successfully
+2025-04-13 19:18:01,528 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:01,536 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:02,605 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:02,605 - ERROR - Failed to set up for material 3
+2025-04-13 19:18:02,605 - INFO - Processing material 4/16: Name=0,40 mm starker Chromokarton 255g für 10mm Mappen-Füllhöhe (zertifiziert mit PEFC-Siegel für Nachhaltigkeit), hohe Steifigkeit mit 1,6-fachem Volumen, Code=mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_10mm_pefc_1_6vol, Position=0
+2025-04-13 19:18:02,605 - INFO - Refreshing page for material 4
+2025-04-13 19:18:02,878 - INFO - Page refreshed successfully
+2025-04-13 19:18:02,878 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:02,887 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:03,964 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:03,964 - ERROR - Failed to set up for material 4
+2025-04-13 19:18:03,964 - INFO - Processing material 5/16: Name=0,36 mm starker Bilderdruckkarton 350g matt für 1mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), mittlere Steifigkeit, Code=mappe_a4_2t_3l_44_praegung_silber_0_36mm_bilderdruckkarton_350g_1mm_matt_fsc, Position=0
+2025-04-13 19:18:03,964 - INFO - Refreshing page for material 5
+2025-04-13 19:18:05,785 - INFO - Page refreshed successfully
+2025-04-13 19:18:05,790 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:05,797 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:06,854 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:06,854 - ERROR - Failed to set up for material 5
+2025-04-13 19:18:06,854 - INFO - Processing material 6/16: Name=0,36 mm starker Naturkarton 300g hochweiß für 1mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), hohe Steifigkeit mit 1,3-fachem Volumen, Code=mappe_a4_2t_3l_44_praegung_silber_0_36mm_naturkarton_300g_1mm_hochweiss_fsc_1_3vol, Position=0
+2025-04-13 19:18:06,854 - INFO - Refreshing page for material 6
+2025-04-13 19:18:07,186 - INFO - Page refreshed successfully
+2025-04-13 19:18:07,186 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:07,194 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:08,250 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:08,250 - ERROR - Failed to set up for material 6
+2025-04-13 19:18:08,250 - INFO - Processing material 7/16: Name=0,36 mm starker Recyclingkarton 300g weiß für 1mm Mappen-Füllhöhe (zertifiziert mit Blauer Engel und EU Ecolabel), mittlere Steifigkeit mit 1,25-fachem Volumen, Code=mappe_a4_2t_3l_44_praegung_silber_0_36mm_recyclingkarton_300g_1mm_weiss_blauer_eu_1_25vol, Position=0
+2025-04-13 19:18:08,250 - INFO - Refreshing page for material 7
+2025-04-13 19:18:08,554 - INFO - Page refreshed successfully
+2025-04-13 19:18:08,554 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:08,566 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:09,623 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:09,623 - ERROR - Failed to set up for material 7
+2025-04-13 19:18:09,623 - INFO - Processing material 8/16: Name=0,36 mm starker Bilderdruckkarton 350g matt für 3mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), mittlere Steifigkeit, Code=mappe_a4_2t_3l_44_praegung_silber_0_36mm_bilderdruckkarton_350g_3mm_matt_fsc, Position=0
+2025-04-13 19:18:09,623 - INFO - Refreshing page for material 8
+2025-04-13 19:18:09,956 - INFO - Page refreshed successfully
+2025-04-13 19:18:09,956 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:09,993 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:11,051 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:11,051 - ERROR - Failed to set up for material 8
+2025-04-13 19:18:11,053 - INFO - Processing material 9/16: Name=0,36 mm starker Naturkarton 300g hochweiß für 3mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), hohe Steifigkeit mit 1,3-fachem Volumen, Code=mappe_a4_2t_3l_44_praegung_silber_0_36mm_naturkarton_300g_3mm_hochweiss_fsc_1_3vol,, Position=0
+2025-04-13 19:18:11,053 - INFO - Refreshing page for material 9
+2025-04-13 19:18:11,298 - INFO - Page refreshed successfully
+2025-04-13 19:18:11,298 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:11,324 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:12,387 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:12,387 - ERROR - Failed to set up for material 9
+2025-04-13 19:18:12,387 - INFO - Processing material 10/16: Name=0,36 mm starker Recyclingkarton 300g weiß für 3mm Mappen-Füllhöhe (zertifiziert mit Blauer Engel und EU Ecolabel), mittlere Steifigkeit mit 1,25-fachem Volumen, Code=mappe_a4_2t_3l_44_praegung_silber_0_36mm_recyclingkarton_300g_3mm_weiss_blauer_eu_1_25vol, Position=0
+2025-04-13 19:18:12,387 - INFO - Refreshing page for material 10
+2025-04-13 19:18:12,632 - INFO - Page refreshed successfully
+2025-04-13 19:18:12,632 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:12,672 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:13,728 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:13,728 - ERROR - Failed to set up for material 10
+2025-04-13 19:18:13,728 - INFO - Processing material 11/16: Name=0,36 mm starker Bilderdruckkarton 350g matt für 5mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), mittlere Steifigkeit, Code=mappe_a4_2t_3l_44_praegung_silber_0_36mm_bilderdruckkarton_350g_5mm_matt_fsc, Position=0
+2025-04-13 19:18:13,728 - INFO - Refreshing page for material 11
+2025-04-13 19:18:14,016 - INFO - Page refreshed successfully
+2025-04-13 19:18:14,016 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:14,028 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:15,090 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:15,090 - ERROR - Failed to set up for material 11
+2025-04-13 19:18:15,090 - INFO - Processing material 12/16: Name=0,36 mm starker Naturkarton 300g hochweiß für 5mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), hohe Steifigkeit mit 1,3-fachem Volumen, Code=mappe_a4_2t_3l_44_praegung_silber_0_36mm_naturkarton_300g_5mm_hochweiss_fsc_1_3vol, Position=0
+2025-04-13 19:18:15,090 - INFO - Refreshing page for material 12
+2025-04-13 19:18:15,380 - INFO - Page refreshed successfully
+2025-04-13 19:18:15,380 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:15,395 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:16,451 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:16,455 - ERROR - Failed to set up for material 12
+2025-04-13 19:18:16,455 - INFO - Processing material 13/16: Name=0,36 mm starker Recyclingkarton 300g weiß für 5mm Mappen-Füllhöhe (zertifiziert mit Blauer Engel und EU Ecolabel), mittlere Steifigkeit mit 1,25-fachem Volumen, Code=mappe_a4_2t_3l_44_praegung_silber_0_36mm_recyclingkarton_300g_5mm_weiss_blauer_eu_1_25vol, Position=0
+2025-04-13 19:18:16,455 - INFO - Refreshing page for material 13
+2025-04-13 19:18:16,750 - INFO - Page refreshed successfully
+2025-04-13 19:18:16,750 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:16,763 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:17,817 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:17,817 - ERROR - Failed to set up for material 13
+2025-04-13 19:18:17,817 - INFO - Processing material 14/16: Name=0,36 mm starker Bilderdruckkarton 350g matt für 10mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), mittlere Steifigkeit, Code=mappe_a4_2t_3l_44_praegung_silber_0_36mm_bilderdruckkarton_350g_10mm_matt_fsc, Position=0
+2025-04-13 19:18:17,817 - INFO - Refreshing page for material 14
+2025-04-13 19:18:18,083 - INFO - Page refreshed successfully
+2025-04-13 19:18:18,083 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:18,127 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:19,188 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:19,188 - ERROR - Failed to set up for material 14
+2025-04-13 19:18:19,188 - INFO - Processing material 15/16: Name=0,36 mm starker Naturkarton 300g hochweiß für 10mm Mappen-Füllhöhe (zertifiziert mit FSC-Siegel), hohe Steifigkeit mit 1,3-fachem Volumen, Code=mappe_a4_2t_3l_44_praegung_silber_0_36mm_naturkarton_300g_10mm_hochweiss_fsc_1_3vol, Position=0
+2025-04-13 19:18:19,188 - INFO - Refreshing page for material 15
+2025-04-13 19:18:19,543 - INFO - Page refreshed successfully
+2025-04-13 19:18:19,543 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:19,554 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:20,605 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:20,605 - ERROR - Failed to set up for material 15
+2025-04-13 19:18:20,605 - INFO - Processing material 16/16: Name=0,36 mm starker Recyclingkarton 300g weiß für 10mm Mappen-Füllhöhe (zertifiziert mit Blauer Engel und EU Ecolabel), mittlere Steifigkeit mit 1,25-fachem Volumen,, Code=mappe_a4_2t_3l_44_praegung_silber_0_36mm_recyclingkarton_300g_10mm_weiss_blauer_eu_1_25vol, Position=0
+2025-04-13 19:18:20,605 - INFO - Refreshing page for material 16
+2025-04-13 19:18:20,927 - INFO - Page refreshed successfully
+2025-04-13 19:18:20,929 - INFO - Looking for Page Option Values section
+2025-04-13 19:18:20,939 - INFO - Scrolling down to find Page Option Values
+2025-04-13 19:18:21,992 - WARNING - Could not find Page Option Values section
+2025-04-13 19:18:21,992 - ERROR - Failed to set up for material 16
+2025-04-13 19:18:21,992 - INFO - All materials processed, now clicking main save
+2025-04-13 19:18:21,992 - INFO - Refreshing page...
+2025-04-13 19:18:22,290 - INFO - Page refreshed successfully
+2025-04-13 19:18:23,581 - INFO - Clicked main Save button in top-right corner
+2025-04-13 19:18:24,583 - INFO - Successfully saved all page option values
+2025-04-13 19:18:24,583 - INFO - Successfully filled and saved the form
+2025-04-13 19:18:24,583 - INFO - Starting popup modal Save button click function
+2025-04-13 19:18:24,590 - INFO - Found modal popup
+2025-04-13 19:18:24,602 - WARNING - Could not find Save button in modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button#save, button.action-primary, button[title='Save'], button.primary"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093DD81]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:18:24,613 - WARNING - Title-based approach failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(), 'Page Option Value')]"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x00991022]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:18:24,619 - WARNING - JavaScript approach could not find modal Save button
+2025-04-13 19:18:24,619 - INFO - Looking for most recently added Save button
+2025-04-13 19:18:24,664 - INFO - Clicked most recently added Save button
+2025-04-13 19:18:24,664 - INFO - Successfully clicked modal save button.
+2025-04-13 19:18:24,664 - INFO - Refreshing page...
+2025-04-13 19:18:24,933 - INFO - Page refreshed successfully
+2025-04-13 19:18:25,986 - INFO - Clicked main Save button in top-right corner
+2025-04-13 19:18:26,990 - INFO - Successfully clicked modal save button.
+2025-04-13 19:18:26,991 - INFO - Starting process to add a new product part from CSV
+2025-04-13 19:18:26,991 - INFO - Clicking on CLOUDLAB icon using the Catalog approach...
+2025-04-13 19:18:27,052 - INFO - Clicked on CLOUDLAB icon using Catalog approach
+2025-04-13 19:18:29,056 - INFO - Clicking on Product Parts submenu using Catalog Products approach...
+2025-04-13 19:18:44,385 - WARNING - Catalog approach failed for Product Parts: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x00991022]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:18:46,175 - INFO - Clicked on Product Parts by text
+2025-04-13 19:18:47,259 - INFO - Successfully navigated to Product Parts page
+2025-04-13 19:18:47,259 - INFO - Clicking on Add New Part button
+2025-04-13 19:18:53,482 - INFO - Clicked on Add New Part button using CSS class
+2025-04-13 19:18:53,482 - INFO - Waiting  seconds for the form to load completely...
+2025-04-13 19:18:58,483 - INFO - Filling Name field
+2025-04-13 19:18:58,762 - INFO - Filled Name field with: Mappe für DIN A4 2-teilig mit 3 Laschen, 4/4 farbig (Außenseite bedruckt), mit Heißfolienprägung Silber
+2025-04-13 19:18:59,763 - INFO - Filling Code field with enhanced approach
+2025-04-13 19:19:00,187 - INFO - Filled Code field with: mappe_fuer_din_a4_2_teilig_mit_3_laschen_4_4_farbig_aussenseite_bedruckt_mit_heissfolienpraegung_silber and triggered validation
+2025-04-13 19:19:00,188 - INFO - Attempting to select Material dropdown
+2025-04-13 19:19:00,188 - INFO - Attempting to select materials from CSV
+2025-04-13 19:19:00,190 - INFO - Found materials from CSV: ['mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_1mm_pefc_1_6vol', 'mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_3mm_pefc_1_6vol', 'mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_5mm_pefc_1_6vol', 'mappe_a4_2t_3l_44_praegung_silber_0_40mm_chromokarton_255g_10mm_pefc_1_6vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_bilderdruckkarton_350g_1mm_matt_fsc', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_naturkarton_300g_1mm_hochweiss_fsc_1_3vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_recyclingkarton_300g_1mm_weiss_blauer_eu_1_25vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_bilderdruckkarton_350g_3mm_matt_fsc', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_naturkarton_300g_3mm_hochweiss_fsc_1_3vol,', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_recyclingkarton_300g_3mm_weiss_blauer_eu_1_25vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_bilderdruckkarton_350g_5mm_matt_fsc', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_naturkarton_300g_5mm_hochweiss_fsc_1_3vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_recyclingkarton_300g_5mm_weiss_blauer_eu_1_25vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_bilderdruckkarton_350g_10mm_matt_fsc', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_naturkarton_300g_10mm_hochweiss_fsc_1_3vol', 'mappe_a4_2t_3l_44_praegung_silber_0_36mm_recyclingkarton_300g_10mm_weiss_blauer_eu_1_25vol']
+2025-04-13 19:19:01,647 - INFO - Found Öffnung element, now looking for Material field below it
+2025-04-13 19:19:01,706 - ERROR - Could not find Material element below Öffnung
+2025-04-13 19:19:01,708 - WARNING - Failed to select Material dropdown, continuing with save
+2025-04-13 19:19:06,709 - INFO - Clicking Save button
+2025-04-13 19:19:08,091 - INFO - Clicked Save button via CSS selector
+2025-04-13 19:19:08,091 - INFO - Waiting 10 seconds after save...
+2025-04-13 19:19:18,095 - INFO - Product part save process completed
+2025-04-13 19:19:18,095 - INFO - Successfully added a new product part for product 1
+2025-04-13 19:19:18,095 - INFO - Clicking on Catalog icon...
+2025-04-13 19:19:20,491 - INFO - Clicking on Products submenu...
+2025-04-13 19:19:23,857 - INFO - Clicking on Add Product button...
+2025-04-13 19:19:29,079 - INFO - Navigated to Add Product page
+2025-04-13 19:19:29,664 - INFO - Product name entered: Mappe für DIN A4 2-teilig mit 3 Laschen, 4/4 farbig (Außenseite bedruckt), mit Heißfolienprägung Silber
+2025-04-13 19:19:29,841 - INFO - SKU entered: 1004381
+2025-04-13 19:19:30,005 - INFO - Price entered: 1.00
+2025-04-13 19:19:30,243 - INFO - Quantity entered: 99999999
+2025-04-13 19:19:30,243 - INFO - Successfully filled basic info for product: Mappe für DIN A4 2-teilig mit 3 Laschen, 4/4 farbig (Außenseite bedruckt), mit Heißfolienprägung Silber
+2025-04-13 19:19:30,248 - INFO - Setting 'Is Meter Price' to: Yes
+2025-04-13 19:19:30,279 - INFO - Toggle result: Changed 'Is Meter Price' to: Yes
+2025-04-13 19:19:30,292 - INFO - Final scroll position: 879.2000122070312px
+2025-04-13 19:19:30,292 - ERROR - Failed to set 'Is Meter Price': name 'current_scroll_y' is not defined
+2025-04-13 19:19:30,292 - INFO - Attempting final fallback method
+2025-04-13 19:19:32,395 - INFO - Clicked toggle using fallback method
+2025-04-13 19:19:32,395 - INFO - Selecting Producer: wmd.networkhero.eu with simplified approach
+2025-04-13 19:19:33,447 - INFO - JavaScript producer selection result: Selected wmd.networkhero.eu using standard dropdown via JS
+2025-04-13 19:19:33,447 - INFO - Setting 'Disable pickup' to: Yes
+2025-04-13 19:19:33,464 - INFO - Initial scroll position: 1135.199951171875px
+2025-04-13 19:19:35,000 - INFO - Current scroll position after positioning: 2268.800048828125px
+2025-04-13 19:19:35,018 - INFO - Toggle result: Changed 'Disable pickup' to: Yes
+2025-04-13 19:19:35,032 - INFO - Final scroll position: 2268.800048828125px
+2025-04-13 19:19:35,050 - INFO - Validation confirmed 'Disable pickup' setting was applied correctly
+2025-04-13 19:19:35,051 - INFO - Scrolling down to find Websites section
+2025-04-13 19:19:36,122 - INFO - Expanded Websites section
+2025-04-13 19:19:38,157 - INFO - Selected website: Selling Website
+2025-04-13 19:19:38,207 - INFO - Selected website: Networkhero
+2025-04-13 19:19:38,207 - INFO - Completed website selection
+2025-04-13 19:19:38,207 - INFO - Updating Product Type to: Upload + Personalization + Configuration using producer-style approach
+2025-04-13 19:19:39,279 - INFO - Clicked Web2Print Settings
+2025-04-13 19:19:42,347 - INFO - Clicked General tab
+2025-04-13 19:19:44,353 - INFO - Selecting Product Type: Upload + Personalization + Configuration with producer-style approach
+2025-04-13 19:19:45,400 - INFO - JavaScript Product Type selection result: Selected Upload + Personalization + Configuration using standard select
+2025-04-13 19:19:45,400 - INFO - Setting Price Calculation to Fixed in Matrix tab
+2025-04-13 19:19:46,499 - INFO - Clicked Matrix tab
+2025-04-13 19:19:48,501 - INFO - Looking for Price Calculation field
+2025-04-13 19:19:48,519 - INFO - JavaScript Price Calculation selection result: Selected Fixed using standard select
+2025-04-13 19:19:48,521 - INFO - Selecting weekdays in Production Days multiselect
+2025-04-13 19:19:49,596 - INFO - Clicked Others tab
+2025-04-13 19:19:52,608 - INFO - Approaching Production Days with direct ID
+2025-04-13 19:20:02,819 - WARNING - Direct ID approach failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x00991022]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:20:02,819 - INFO - Approaching Production Days via label
+2025-04-13 19:20:03,891 - WARNING - Label approach failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"select.admin__control-multiselect, select[multiple]"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x0093DD81]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0093DCA4]
+	(No symbol) [0x0096D2C4]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:20:03,891 - INFO - Trying all multiselects approach
+2025-04-13 19:20:03,907 - INFO - Found 1 multiselects
+2025-04-13 19:20:04,935 - INFO - JavaScript multiselect 1 result: {'selected': ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], 'success': True}
+2025-04-13 19:20:04,935 - INFO - Successfully selected weekdays in multiselect 1
+2025-04-13 19:20:04,935 - INFO - Configuring Delivery section with final optimized approach
+2025-04-13 19:20:06,487 - INFO - Expansion result: Clicked to expand delivery section
+2025-04-13 19:20:08,488 - INFO - Setting VPE value to 9999
+2025-04-13 19:20:08,488 - INFO - Setting VPE value to 9999 using optimized method
+2025-04-13 19:20:08,499 - INFO - DOM manipulation result: Set VPE value to 9999 via DOM manipulation
+2025-04-13 19:20:08,499 - INFO - Selecting VPE Type: Stock
+2025-04-13 19:20:08,499 - INFO - Selecting VPE Type: Stock using producer-style approach
+2025-04-13 19:20:12,569 - INFO - VPE Type field structure: {'found': True, 'labelRect': {'bottom': 332.63751220703125, 'height': 0, 'left': 392.9875183105469, 'right': 453.7000198364258, 'toJSON': {}, 'top': 332.63751220703125, 'width': 60.712501525878906, 'x': 392.9875183105469, 'y': 332.63751220703125}, 'structure': {'dropdownLikeCount': 0, 'fieldClasses': 'admin__field', 'firstSelectClasses': 'admin__control-select', 'firstSelectId': 'HJTHV1Q', 'firstSelectOptions': ['LFM - Running Meter', 'm²', 'Stock'], 'hasField': True, 'hasMultiselect': False, 'selectCount': 1}}
+2025-04-13 19:20:12,569 - INFO - Found traditional select for VPE Type
+2025-04-13 19:20:12,581 - INFO - Select result: Selected Stock from VPE Type select
+2025-04-13 19:20:12,581 - INFO - Selecting 'Fix Products' option
+2025-04-13 19:20:12,590 - INFO - Fix Products selection result: Selected Fix Products option
+2025-04-13 19:20:12,593 - INFO - Successfully configured Delivery section
+2025-04-13 19:20:12,593 - INFO - Configuring Print Product Setup with CTRL+click for multiple selection
+2025-04-13 19:20:13,664 - INFO - Clicked Print Product Setup
+2025-04-13 19:20:15,673 - INFO - Attempting to select the last option in Product Parts list
+2025-04-13 19:20:15,705 - INFO - Found Product Parts select element using XPath: //span[text()='Product Parts']/ancestor::div[contains(@class, 'field')]//select
+2025-04-13 19:20:24,075 - INFO - Selecting last option (index 1146) of 1147 total options
+2025-04-13 19:20:29,943 - INFO - Selected last option by index: 1146
+2025-04-13 19:20:37,015 - INFO - Successfully selected: Mappe für DIN A4 2-teilig mit 3 Laschen, 4/4 farbig (Außenseite bedruckt), mit Heißfolienprägung Silber ( mappe_fuer_din_a4_2_teilig_mit_3_laschen_4_4_farbig_aussenseite_bedruckt_mit_heissfolienpraegung_silber )
+2025-04-13 19:20:37,024 - INFO - Textarea values set result: {'dateityp': False, 'datencheck': True}
+2025-04-13 19:20:37,024 - INFO - Trying multiselect approach with CTRL+click
+2025-04-13 19:20:38,133 - INFO - Clicked Standard option
+2025-04-13 19:20:39,432 - INFO - CTRL+Clicked Profidatencheck option
+2025-04-13 19:20:41,527 - INFO - Clicked PDF-file option
+2025-04-13 19:20:42,818 - INFO - CTRL+Clicked Image option
+2025-04-13 19:20:43,820 - INFO - Configuring additional settings with improved approach
+2025-04-13 19:20:43,820 - INFO - Configuring Lieferung field
+2025-04-13 19:20:44,882 - INFO - Lieferung selection result: {'selected': ['Standard ( production_standard )', 'Express ( production_express )', 'Standard Plus ( production_standard_plus )'], 'success': True}
+2025-04-13 19:20:44,882 - INFO - Configuring Anzahl field
+2025-04-13 19:20:46,499 - INFO - Selected quantity_1
+2025-04-13 19:20:47,145 - INFO - Selected quantity_1 using Select class
+2025-04-13 19:20:47,145 - INFO - Configuring Proof Group field
+2025-04-13 19:20:48,725 - INFO - Selected proof_group_digital
+2025-04-13 19:20:49,359 - INFO - Selected proof_group_digital using Select class
+2025-04-13 19:20:49,359 - INFO - Configuring Product Personalization Template field
+2025-04-13 19:20:50,414 - INFO - Template setting result: {'action': 'selected option', 'element': 'select', 'success': True}
+2025-04-13 19:20:50,414 - INFO - Clicking the Save button in the top right corner
+2025-04-13 19:21:00,675 - WARNING - Standard approach failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x00991022]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:21:01,016 - INFO - JavaScript result: Clicked Save button by text
+2025-04-13 19:21:01,016 - INFO - Successfully clicked Save button using JavaScript
+2025-04-13 19:21:11,017 - INFO - Successfully saved product 1: Mappe für DIN A4 2-teilig mit 3 Laschen, 4/4 farbig (Außenseite bedruckt), mit Heißfolienprägung Silber
+2025-04-13 19:21:11,019 - INFO - ====== WebDriver manager ======
+2025-04-13 19:21:12,413 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-13 19:21:12,516 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-13 19:21:12,658 - INFO - Driver [C:\Users\g.yilmaz\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-13 19:21:13,758 - INFO - Chrome WebDriver initialized successfully
+2025-04-13 19:21:13,758 - INFO - Navigating to PrintNet login page: https://printnet.networkhero.eu/dashboard/admin/
+2025-04-13 19:21:15,293 - INFO - Username entered
+2025-04-13 19:21:15,313 - ERROR - Failed to find password field by ID: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="password"]"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x00991022]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:21:15,432 - INFO - Password entered using alternative selector
+2025-04-13 19:21:18,690 - INFO - Login button clicked
+2025-04-13 19:21:26,601 - INFO - Successfully logged in to PrintNet
+2025-04-13 19:21:26,601 - INFO - Successfully logged in to PrintNet
+2025-04-13 19:21:26,601 - INFO - Processing first product: Mappe für DIN A4 2-teilig mit 3 Laschen, 4/4 farbig (Außenseite bedruckt), mit Heißfolienprägung Silber (SKU: 1004381)
+2025-04-13 19:21:26,601 - INFO - Clicking on Catalog icon in PrintNet...
+2025-04-13 19:21:26,669 - INFO - Clicking on Products submenu in PrintNet...
+2025-04-13 19:21:27,793 - INFO - Clicking on Add Product button in PrintNet...
+2025-04-13 19:21:29,089 - INFO - Navigated to Add Product page in PrintNet
+2025-04-13 19:21:30,742 - INFO - SKU giriliyor: 1004381
+2025-04-13 19:21:30,901 - INFO - SKU girildi: 1004381
+2025-04-13 19:21:30,901 - INFO - Fiyat giriliyor: 1.00
+2025-04-13 19:21:31,034 - INFO - Fiyat girildi: 1.00
+2025-04-13 19:21:31,034 - INFO - Miktar giriliyor: 99999999
+2025-04-13 19:21:31,304 - INFO - Miktar girildi: 99999999
+2025-04-13 19:21:31,309 - INFO - Starting Visibility selection process
+2025-04-13 19:21:31,408 - INFO - Successfully selected 'Catalog'
+2025-04-13 19:21:32,411 - INFO - Setting 'Is Meter Price' to: Yes
+2025-04-13 19:21:32,426 - INFO - Initial scroll position: 499.20001220703125px
+2025-04-13 19:21:32,497 - INFO - Current scroll position after positioning: 493.6000061035156px
+2025-04-13 19:21:32,530 - INFO - Toggle result: Changed 'Is Meter Price' to: Yes
+2025-04-13 19:21:32,544 - INFO - Final scroll position: 493.6000061035156px
+2025-04-13 19:21:32,567 - INFO - Validation confirmed 'Is Meter Price' setting was applied correctly
+2025-04-13 19:21:32,964 - INFO - bannerheld.at seçildi
+2025-04-13 19:21:42,097 - INFO - Updating Product Type to: Upload + Personalization + Configuration using producer-style approach
+2025-04-13 19:21:43,152 - INFO - Clicked General tab
+2025-04-13 19:21:45,154 - INFO - Selecting Product Type: Upload + Personalization + Configuration with producer-style approach
+2025-04-13 19:21:46,214 - INFO - JavaScript Product Type selection result: Selected Upload + Personalization + Configuration using standard select
+2025-04-13 19:21:49,334 - INFO - Looking for Price Calculation field
+2025-04-13 19:21:49,359 - INFO - JavaScript Price Calculation selection result: Selected Fixed using standard select
+2025-04-13 19:21:53,457 - WARNING - Failed to configure Web2Print settings
+2025-04-13 19:21:59,684 - INFO - Selecting weekdays in Production Days multiselect
+2025-04-13 19:22:00,806 - INFO - Clicked Others tab
+2025-04-13 19:22:02,809 - INFO - Trying to select Print Files Options
+2025-04-13 19:22:03,845 - INFO - Found Print Files Options area
+2025-04-13 19:22:03,868 - INFO - JavaScript selection result: {'selected': ['Upload from Account', 'Send to Graphic Department', 'Send by Email', 'Online Designer'], 'success': True}
+2025-04-13 19:22:04,876 - INFO - Trying all multiselects approach
+2025-04-13 19:22:04,887 - INFO - Found 3 multiselects
+2025-04-13 19:22:05,932 - INFO - JavaScript multiselect 1 result: {'selected': [], 'success': False}
+2025-04-13 19:22:06,966 - INFO - JavaScript multiselect 2 result: {'selected': [], 'success': False}
+2025-04-13 19:22:07,994 - INFO - JavaScript multiselect 3 result: {'selected': ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], 'success': True}
+2025-04-13 19:22:07,994 - INFO - Successfully selected weekdays in multiselect 3
+2025-04-13 19:22:07,994 - INFO - Configuring Minimum DPI and Quantity Selectors
+2025-04-13 19:22:09,041 - INFO - Set Minimum DPI to 300
+2025-04-13 19:22:10,100 - INFO - Use Custom Quantity Selector result: {'action': 'enabled', 'success': True}
+2025-04-13 19:22:11,168 - INFO - Use Fixed Price Quantity Selector result: {'action': 'enabled', 'success': True}
+2025-04-13 19:22:11,173 - INFO - Configuring Print Product Setup with CTRL+click for multiple selection
+2025-04-13 19:22:12,291 - INFO - Clicked Print Product Setup
+2025-04-13 19:22:14,292 - INFO - Attempting to select the last option in Product Parts list
+2025-04-13 19:22:15,324 - INFO - Found Product Parts select element
+2025-04-13 19:22:28,269 - INFO - Selected last option (index 1146) from Product Parts list
+2025-04-13 19:22:28,287 - INFO - Textarea values set result: {'dateityp': False, 'datencheck': False}
+2025-04-13 19:22:28,287 - INFO - Trying multiselect approach with CTRL+click
+2025-04-13 19:22:29,415 - INFO - Clicked Standard option
+2025-04-13 19:22:30,705 - INFO - CTRL+Clicked Profidatencheck option
+2025-04-13 19:22:32,789 - INFO - Clicked PDF-file option
+2025-04-13 19:22:34,080 - INFO - CTRL+Clicked Image option
+2025-04-13 19:22:35,083 - INFO - Configuring additional settings with improved approach
+2025-04-13 19:22:35,083 - INFO - Configuring Lieferung field
+2025-04-13 19:22:36,152 - INFO - Lieferung selection result: {'selected': ['Standard ( production_standard )', 'Express ( production_express )', 'Standard Plus ( production_standard_plus )'], 'success': True}
+2025-04-13 19:22:36,152 - INFO - Configuring Anzahl field
+2025-04-13 19:22:37,752 - INFO - Selected quantity_1
+2025-04-13 19:22:38,419 - INFO - Selected quantity_1 using Select class
+2025-04-13 19:22:38,420 - INFO - Configuring Proof Group field
+2025-04-13 19:22:40,043 - INFO - Selected proof_group_digital
+2025-04-13 19:22:40,685 - INFO - Selected proof_group_digital using Select class
+2025-04-13 19:22:40,685 - INFO - Configuring Product Personalization Template field
+2025-04-13 19:22:41,754 - INFO - Template setting result: {'action': 'selected option', 'element': 'select', 'success': True}
+2025-04-13 19:22:41,755 - INFO - Successfully configured all settings in PrintNet for product: Mappe für DIN A4 2-teilig mit 3 Laschen, 4/4 farbig (Außenseite bedruckt), mit Heißfolienprägung Silber
+2025-04-13 19:22:41,755 - INFO - Successfully configured product: Mappe für DIN A4 2-teilig mit 3 Laschen, 4/4 farbig (Außenseite bedruckt), mit Heißfolienprägung Silber
+2025-04-13 19:22:41,755 - INFO - Clicking the Save button in the top right corner
+2025-04-13 19:22:52,020 - WARNING - Standard approach failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x00991022]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:22:52,354 - INFO - JavaScript result: Clicked Save button by text
+2025-04-13 19:22:52,354 - INFO - Successfully clicked Save button using JavaScript
+2025-04-13 19:23:02,356 - INFO - Successfully saved product: Mappe für DIN A4 2-teilig mit 3 Laschen, 4/4 farbig (Außenseite bedruckt), mit Heißfolienprägung Silber
+2025-04-13 19:23:04,649 - INFO - Browser closed
+2025-04-13 19:23:04,650 - INFO - ====== WebDriver manager ======
+2025-04-13 19:23:06,023 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-13 19:23:06,125 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-13 19:23:06,202 - INFO - Driver [C:\Users\g.yilmaz\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-13 19:23:07,317 - INFO - Navigating to https://skynet.networkhero.eu/y5id_dashboard/admin/
+2025-04-13 19:23:08,960 - INFO - Username entered
+2025-04-13 19:23:09,050 - INFO - Password entered
+2025-04-13 19:23:09,870 - INFO - Login button clicked
+2025-04-13 19:23:09,870 - INFO - Waiting for you to enter Google Authenticator code...
+2025-04-13 19:23:19,252 - INFO - Login successful
+2025-04-13 19:23:19,252 - INFO - Clicking on CLOUDLAB icon using the Catalog approach...
+2025-04-13 19:23:19,305 - INFO - Clicked on CLOUDLAB icon using Catalog approach
+2025-04-13 19:23:29,664 - INFO - Attempting to click the Save button in the top right corner
+2025-04-13 19:23:39,903 - WARNING - First approach failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x00991022]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:23:39,924 - INFO - JavaScript Save button result: Clicked the best Save button: 
+                                Save
+                            
+2025-04-13 19:23:59,085 - INFO - Attempting to click the Save button in the top right corner
+2025-04-13 19:24:09,313 - WARNING - First approach failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x00991022]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:24:09,335 - INFO - JavaScript Save button result: Clicked the best Save button: 
+                                Save
+                            
+2025-04-13 19:24:28,483 - INFO - Attempting to click the Save button in the top right corner
+2025-04-13 19:24:38,746 - WARNING - First approach failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00AD80E3+60707]
+	GetHandleVerifier [0x00AD8124+60772]
+	(No symbol) [0x00900683]
+	(No symbol) [0x00948660]
+	(No symbol) [0x009489FB]
+	(No symbol) [0x00991022]
+	(No symbol) [0x0096D094]
+	(No symbol) [0x0098E824]
+	(No symbol) [0x0096CE46]
+	(No symbol) [0x0093C5D3]
+	(No symbol) [0x0093D424]
+	GetHandleVerifier [0x00D1BBC3+2435075]
+	GetHandleVerifier [0x00D17163+2416035]
+	GetHandleVerifier [0x00D3350C+2531660]
+	GetHandleVerifier [0x00AEF1B5+155125]
+	GetHandleVerifier [0x00AF5B5D+182173]
+	GetHandleVerifier [0x00ADF9B8+91640]
+	GetHandleVerifier [0x00ADFB60+92064]
+	GetHandleVerifier [0x00ACA620+4704]
+	BaseThreadInitThunk [0x76AA7BA9+25]
+	RtlInitializeExceptionChain [0x77AEC2EB+107]
+	RtlClearBits [0x77AEC26F+191]
+
+2025-04-13 19:24:38,764 - INFO - JavaScript Save button result: Clicked the best Save button: 
+                                Save
+                            
+2025-04-13 19:24:46,305 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None)': /session/36f8a1d2f3138e3f0dfa3d1673883443
+2025-04-13 19:24:50,360 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CE3900CBC0>: Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte')': /session/36f8a1d2f3138e3f0dfa3d1673883443
+2025-04-13 19:24:54,429 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CE3900E210>: Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte')': /session/36f8a1d2f3138e3f0dfa3d1673883443
+2025-04-13 19:29:13,481 - INFO - Browser closed

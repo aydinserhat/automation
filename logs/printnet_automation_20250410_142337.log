@@ -1,0 +1,1257 @@
+2025-04-10 14:23:37,749 - INFO - Logging initialized. Log file: C:\Users\g.yilmaz\Desktop\Magento_otomation\Done\logs\printnet_automation_20250410_142337.log
+2025-04-10 14:23:37,767 - INFO - Logging initialized. Log file: C:\Users\g.yilmaz\Desktop\Magento_otomation\Done\logs\skynet_fixed_price_20250410_142337.log
+2025-04-10 14:23:37,783 - INFO - Logging initialized. Log file: C:\Users\g.yilmaz\Desktop\Magento_otomation\Done\logs\printnet_fixed_price_20250410_142337.log
+2025-04-10 14:23:37,799 - INFO - Logging initialized. Log file: C:\Users\g.yilmaz\Desktop\Magento_otomation\Done\logs\skynet_page_options_20250410_142337.log
+2025-04-10 14:23:37,799 - INFO - ====== WebDriver manager ======
+2025-04-10 14:23:38,743 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-10 14:23:38,824 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-10 14:23:38,894 - INFO - Driver [C:\Users\g.yilmaz\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-10 14:23:40,014 - INFO - Chrome WebDriver initialized successfully
+2025-04-10 14:23:40,014 - INFO - Navigating to https://skynet.networkhero.eu/y5id_dashboard/admin/
+2025-04-10 14:23:40,876 - INFO - Username entered
+2025-04-10 14:23:40,956 - INFO - Password entered
+2025-04-10 14:23:41,369 - INFO - Login button clicked
+2025-04-10 14:23:41,369 - INFO - Waiting for you to enter Google Authenticator code...
+2025-04-10 14:23:48,343 - INFO - Login successful
+2025-04-10 14:23:48,343 - INFO - Clicking on CLOUDLAB icon using the Catalog approach...
+2025-04-10 14:23:48,363 - INFO - Clicked on CLOUDLAB icon using Catalog approach
+2025-04-10 14:23:48,363 - INFO - Successfully clicked on CloudLab
+2025-04-10 14:23:48,363 - INFO - Clicking on Page Options submenu...
+2025-04-10 14:23:48,589 - INFO - Clicked on Page Options using XPath approach
+2025-04-10 14:23:48,602 - INFO - Successfully navigated to Page Options page
+2025-04-10 14:23:48,602 - INFO - Successfully clicked on Page Options
+2025-04-10 14:23:48,602 - INFO - Looking for Code search field
+2025-04-10 14:23:48,698 - INFO - Entered 'paper_wmd' in Code search field
+2025-04-10 14:23:49,765 - WARNING - Could not find search button, trying to press Enter instead: Message: 
+
+2025-04-10 14:23:49,791 - INFO - Pressed Enter to search
+2025-04-10 14:23:49,791 - INFO - Looking for the second Material option in search results
+2025-04-10 14:23:49,827 - INFO - Found 20 rows in the search results
+2025-04-10 14:23:49,912 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:49,918 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:49,924 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:49,929 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:49,937 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:49,944 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:49,949 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:49,956 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:49,962 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:49,969 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:49,975 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:49,978 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:49,988 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:49,994 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:50,000 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:50,007 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:50,013 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:50,019 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:50,025 - WARNING - Error processing row: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x003D6DE7]
+	(No symbol) [0x003D90DA]
+	(No symbol) [0x003D9157]
+	(No symbol) [0x00417EF4]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040E131]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:50,027 - WARNING - Not enough rows found in search results
+2025-04-10 14:23:50,233 - INFO - Clicked on the first available Material element
+2025-04-10 14:23:50,234 - INFO - Successfully completed search and click workflow
+2025-04-10 14:23:50,234 - INFO - Looking for Page Option Values section
+2025-04-10 14:23:50,256 - INFO - Scrolling down to find Page Option Values
+2025-04-10 14:23:51,334 - INFO - Clicked on Page Option Values section
+2025-04-10 14:23:56,185 - INFO - Successfully found and clicked button via JavaScript: Clicked button: 
+    add new value
+
+2025-04-10 14:23:56,185 - INFO - Successfully clicked on Page Option Values and Add new Value
+2025-04-10 14:23:56,185 - INFO - Parsed 3 materials from name value: ['Topseller: 350 g/qm Recyclingkarton GT2', 'Klassiker: 240 g/qm Postkarten-Chromokarton GC1', 'Exklusiv: 300 g/qm Recyclingkarton GT2 mit Fettbarriere']
+2025-04-10 14:23:56,185 - INFO - Parsed 3 materials from code value: ['wrap_verpackungen_automatikboden_70x87_4_0_topseller_1', 'wrap_verpackungen_automatikboden_70x87_4_0_klassiker_2', 'wrap_verpackungen_automatikboden_70x87_4_0_exklusiv_3']
+2025-04-10 14:23:56,193 - INFO - Processing material 1/3: Name=Topseller: 350 g/qm Recyclingkarton GT2, Code=wrap_verpackungen_automatikboden_70x87_4_0_topseller_1, Position=0
+2025-04-10 14:23:56,234 - INFO - JavaScript fill result for material 1: {'codeFieldFound': True, 'codeFieldValue': 'wrap_verpackungen_automatikboden_70x87_4_0_topseller_1', 'nameFieldFound': True, 'nameFieldValue': 'Topseller: 350 g/qm Recyclingkarton GT2', 'positionFieldFound': True, 'positionFieldValue': '0'}
+2025-04-10 14:23:56,235 - INFO - Starting popup modal Save button click function
+2025-04-10 14:23:57,945 - INFO - Found modal popup
+2025-04-10 14:23:57,962 - WARNING - Could not find Save button in modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button#save, button.action-primary, button[title='Save'], button.primary"}
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040DD81]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:57,984 - WARNING - Title-based approach failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(), 'Page Option Value')]"}
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x00461022]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:23:57,994 - WARNING - JavaScript approach could not find modal Save button
+2025-04-10 14:23:57,994 - INFO - Looking for most recently added Save button
+2025-04-10 14:23:58,053 - INFO - Clicked most recently added Save button
+2025-04-10 14:23:58,053 - INFO - Successfully saved material 1
+2025-04-10 14:24:00,057 - INFO - Processing material 2/3: Name=Klassiker: 240 g/qm Postkarten-Chromokarton GC1, Code=wrap_verpackungen_automatikboden_70x87_4_0_klassiker_2, Position=0
+2025-04-10 14:24:00,057 - INFO - Refreshing page for material 2
+2025-04-10 14:24:00,372 - INFO - Page refreshed successfully
+2025-04-10 14:24:00,372 - INFO - Looking for Page Option Values section
+2025-04-10 14:24:00,381 - INFO - Scrolling down to find Page Option Values
+2025-04-10 14:24:01,447 - INFO - Clicked on Page Option Values section
+2025-04-10 14:24:06,192 - INFO - Successfully found and clicked button via JavaScript: Clicked button: 
+    add new value
+
+2025-04-10 14:24:08,205 - INFO - JavaScript fill result for material 2: {'codeFieldFound': True, 'codeFieldValue': 'wrap_verpackungen_automatikboden_70x87_4_0_klassiker_2', 'nameFieldFound': True, 'nameFieldValue': 'Klassiker: 240 g/qm Postkarten-Chromokarton GC1', 'positionFieldFound': True, 'positionFieldValue': '0'}
+2025-04-10 14:24:08,205 - INFO - Starting popup modal Save button click function
+2025-04-10 14:24:08,214 - INFO - Found modal popup
+2025-04-10 14:24:08,221 - WARNING - Could not find Save button in modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button#save, button.action-primary, button[title='Save'], button.primary"}
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040DD81]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:24:08,238 - WARNING - Title-based approach failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(), 'Page Option Value')]"}
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x00461022]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:24:08,246 - WARNING - JavaScript approach could not find modal Save button
+2025-04-10 14:24:08,247 - INFO - Looking for most recently added Save button
+2025-04-10 14:24:09,323 - INFO - Clicked most recently added Save button
+2025-04-10 14:24:09,323 - INFO - Successfully saved material 2
+2025-04-10 14:24:11,330 - INFO - Processing material 3/3: Name=Exklusiv: 300 g/qm Recyclingkarton GT2 mit Fettbarriere, Code=wrap_verpackungen_automatikboden_70x87_4_0_exklusiv_3, Position=0
+2025-04-10 14:24:11,330 - INFO - Refreshing page for material 3
+2025-04-10 14:24:11,836 - INFO - Page refreshed successfully
+2025-04-10 14:24:11,838 - INFO - Looking for Page Option Values section
+2025-04-10 14:24:11,848 - INFO - Scrolling down to find Page Option Values
+2025-04-10 14:24:12,916 - INFO - Clicked on Page Option Values section
+2025-04-10 14:24:17,917 - INFO - Successfully found and clicked button via JavaScript: Clicked button: 
+    add new value
+
+2025-04-10 14:24:19,929 - INFO - JavaScript fill result for material 3: {'codeFieldFound': True, 'codeFieldValue': 'wrap_verpackungen_automatikboden_70x87_4_0_exklusiv_3', 'nameFieldFound': True, 'nameFieldValue': 'Exklusiv: 300 g/qm Recyclingkarton GT2 mit Fettbarriere', 'positionFieldFound': True, 'positionFieldValue': '0'}
+2025-04-10 14:24:19,929 - INFO - Starting popup modal Save button click function
+2025-04-10 14:24:19,941 - INFO - Found modal popup
+2025-04-10 14:24:19,950 - WARNING - Could not find Save button in modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button#save, button.action-primary, button[title='Save'], button.primary"}
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040DD81]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:24:19,970 - WARNING - Title-based approach failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(), 'Page Option Value')]"}
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x00461022]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:24:19,982 - WARNING - JavaScript approach could not find modal Save button
+2025-04-10 14:24:19,982 - INFO - Looking for most recently added Save button
+2025-04-10 14:24:20,518 - INFO - Clicked most recently added Save button
+2025-04-10 14:24:20,518 - INFO - Successfully saved material 3
+2025-04-10 14:24:22,519 - INFO - All materials processed, now clicking main save
+2025-04-10 14:24:22,519 - INFO - Refreshing page...
+2025-04-10 14:24:22,833 - INFO - Page refreshed successfully
+2025-04-10 14:24:23,888 - INFO - Clicked main Save button in top-right corner
+2025-04-10 14:24:24,889 - INFO - Successfully saved all page option values
+2025-04-10 14:24:24,889 - INFO - Successfully filled and saved the form
+2025-04-10 14:24:24,889 - INFO - Starting popup modal Save button click function
+2025-04-10 14:24:24,893 - INFO - Found modal popup
+2025-04-10 14:24:24,893 - WARNING - Could not find Save button in modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button#save, button.action-primary, button[title='Save'], button.primary"}
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040DD81]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:24:24,905 - WARNING - Title-based approach failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(), 'Page Option Value')]"}
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x00461022]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:24:24,905 - WARNING - JavaScript approach could not find modal Save button
+2025-04-10 14:24:24,905 - INFO - Looking for most recently added Save button
+2025-04-10 14:24:24,905 - WARNING - No Save buttons found
+2025-04-10 14:24:24,905 - INFO - Successfully clicked modal save button.
+2025-04-10 14:24:24,905 - INFO - Refreshing page...
+2025-04-10 14:24:25,113 - INFO - Page refreshed successfully
+2025-04-10 14:24:26,321 - INFO - Clicked main Save button in top-right corner
+2025-04-10 14:24:27,322 - INFO - Successfully clicked modal save button.
+2025-04-10 14:24:27,322 - INFO - Starting process to add a new product part from CSV
+2025-04-10 14:24:27,322 - INFO - Clicking on CLOUDLAB icon using the Catalog approach...
+2025-04-10 14:24:27,347 - INFO - Clicked on CLOUDLAB icon using Catalog approach
+2025-04-10 14:24:29,349 - INFO - Clicking on Product Parts submenu using Catalog Products approach...
+2025-04-10 14:24:44,560 - WARNING - Catalog approach failed for Product Parts: Message: 
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x00461022]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:24:46,191 - INFO - Clicked on Product Parts by text
+2025-04-10 14:24:49,207 - INFO - Successfully navigated to Product Parts page
+2025-04-10 14:24:49,207 - INFO - Clicking on Add New Part button
+2025-04-10 14:24:51,781 - INFO - Clicked on Add New Part button using CSS class
+2025-04-10 14:24:51,781 - INFO - Waiting 10 seconds for the form to load completely...
+2025-04-10 14:25:01,785 - INFO - Filling Name field
+2025-04-10 14:25:01,902 - INFO - Filled Name field with: Wrap-Verpackungen mit Automatikboden (Durchmesser 7 cm - Höhe 8,7 cm) einseitig bedruckt 4/0-farbig
+2025-04-10 14:25:02,907 - INFO - Filling Code field with enhanced approach
+2025-04-10 14:25:03,088 - INFO - Filled Code field with: wrap_verpackungen_mit_automatikboden_durchmesser_7_cm_hoehe_8_7_cm_einseitig_bedruckt_4_0_farbig and triggered validation
+2025-04-10 14:25:03,088 - INFO - Attempting to select Material dropdown
+2025-04-10 14:25:03,088 - INFO - Attempting to select materials from CSV
+2025-04-10 14:25:03,088 - INFO - Found 3 materials from CSV
+2025-04-10 14:25:04,110 - INFO - Found Öffnung element, now looking for Material field below it
+2025-04-10 14:25:05,167 - INFO - Found Material element, now looking for select element
+2025-04-10 14:25:05,202 - INFO - Found Material select element
+2025-04-10 14:25:05,222 - INFO - JavaScript selection result: Selected 9 options: ['Topseller: 350 g/qm Recyclingkarton GT2 (wrap_verpackungen_automatikboden_65x95_4_0_topseller_1)', 'Klassiker: 240 g/qm Postkarten-Chromokarton GC1 (wrap_verpackungen_automatikboden_65x95_4_0_klassiker_2)', 'Exklusiv: 300 g/qm Recyclingkarton GT2 mit Fettbarriere (wrap_verpackungen_automatikboden_65x95_4_0_exklusiv_3)', 'Topseller: 350 g/qm Recyclingkarton GT2 (wrap_verpackungen_automatikboden_65x131_4_0_topseller_1)', 'Klassiker: 240 g/qm Postkarten-Chromokarton GC1 (wrap_verpackungen_automatikboden_65x131_4_0_klassiker_2)', 'Exklusiv: 300 g/qm Recyclingkarton GT2 mit Fettbarriere (wrap_verpackungen_automatikboden_65x131_4_0_exklusiv_3)', 'Topseller: 350 g/qm Recyclingkarton GT2 (wrap_verpackungen_automatikboden_70x87_4_0_topseller_1)', 'Klassiker: 240 g/qm Postkarten-Chromokarton GC1 (wrap_verpackungen_automatikboden_70x87_4_0_klassiker_2)', 'Exklusiv: 300 g/qm Recyclingkarton GT2 mit Fettbarriere (wrap_verpackungen_automatikboden_70x87_4_0_exklusiv_3)']
+2025-04-10 14:25:05,222 - INFO - Successfully selected last option in Material dropdown
+2025-04-10 14:25:15,229 - INFO - Clicking Save button
+2025-04-10 14:25:16,342 - INFO - Clicked Save button via CSS selector
+2025-04-10 14:25:16,342 - INFO - Waiting 10 seconds after save...
+2025-04-10 14:25:26,343 - INFO - Product part save process completed
+2025-04-10 14:25:26,343 - INFO - Successfully added a new product part for product 1
+2025-04-10 14:25:26,343 - INFO - Clicking on Catalog icon...
+2025-04-10 14:25:28,374 - INFO - Clicking on Products submenu...
+2025-04-10 14:25:31,683 - INFO - Clicking on Add Product button...
+2025-04-10 14:25:35,249 - INFO - Navigated to Add Product page
+2025-04-10 14:25:35,612 - INFO - Product name entered: Wrap-Verpackungen mit Automatikboden (Durchmesser 7 cm - Höhe 8,7 cm) einseitig bedruckt 4/0-farbig
+2025-04-10 14:25:35,715 - INFO - SKU entered: 1003354
+2025-04-10 14:25:35,824 - INFO - Price entered: 1.00
+2025-04-10 14:25:35,884 - INFO - Quantity entered: 99999999
+2025-04-10 14:25:35,884 - INFO - Successfully filled basic info for product: Wrap-Verpackungen mit Automatikboden (Durchmesser 7 cm - Höhe 8,7 cm) einseitig bedruckt 4/0-farbig
+2025-04-10 14:25:35,884 - INFO - Setting 'Is Meter Price' to: Yes
+2025-04-10 14:25:35,955 - INFO - Toggle result: Changed 'Is Meter Price' to: Yes
+2025-04-10 14:25:35,997 - INFO - Final scroll position: 777px
+2025-04-10 14:25:35,997 - ERROR - Failed to set 'Is Meter Price': name 'current_scroll_y' is not defined
+2025-04-10 14:25:35,997 - INFO - Attempting final fallback method
+2025-04-10 14:25:38,058 - INFO - Clicked toggle using fallback method
+2025-04-10 14:25:38,058 - INFO - Selecting Producer: wmd.networkhero.eu with simplified approach
+2025-04-10 14:25:39,082 - INFO - JavaScript producer selection result: Selected wmd.networkhero.eu using standard dropdown via JS
+2025-04-10 14:25:39,082 - INFO - Setting 'Disable pickup' to: Yes
+2025-04-10 14:25:39,088 - INFO - Initial scroll position: 1035px
+2025-04-10 14:25:40,605 - INFO - Current scroll position after positioning: 2278px
+2025-04-10 14:25:40,623 - INFO - Toggle result: Changed 'Disable pickup' to: Yes
+2025-04-10 14:25:40,625 - INFO - Final scroll position: 2278px
+2025-04-10 14:25:40,633 - INFO - Validation confirmed 'Disable pickup' setting was applied correctly
+2025-04-10 14:25:40,633 - INFO - Scrolling down to find Websites section
+2025-04-10 14:25:41,678 - INFO - Expanded Websites section
+2025-04-10 14:25:43,704 - INFO - Selected website: Selling Website
+2025-04-10 14:25:43,776 - INFO - Selected website: Networkhero
+2025-04-10 14:25:43,778 - INFO - Completed website selection
+2025-04-10 14:25:43,778 - INFO - Updating Product Type to: Upload + Personalization + Configuration using producer-style approach
+2025-04-10 14:25:44,821 - INFO - Clicked Web2Print Settings
+2025-04-10 14:25:47,875 - INFO - Clicked General tab
+2025-04-10 14:25:49,877 - INFO - Selecting Product Type: Upload + Personalization + Configuration with producer-style approach
+2025-04-10 14:25:50,917 - INFO - JavaScript Product Type selection result: Selected Upload + Personalization + Configuration using standard select
+2025-04-10 14:25:50,917 - INFO - Setting Price Calculation to Fixed in Matrix tab
+2025-04-10 14:25:51,974 - INFO - Clicked Matrix tab
+2025-04-10 14:25:53,976 - INFO - Looking for Price Calculation field
+2025-04-10 14:25:53,989 - INFO - JavaScript Price Calculation selection result: Selected Fixed using standard select
+2025-04-10 14:25:53,990 - INFO - Selecting weekdays in Production Days multiselect
+2025-04-10 14:25:55,034 - INFO - Clicked Others tab
+2025-04-10 14:25:58,045 - INFO - Approaching Production Days with direct ID
+2025-04-10 14:26:08,194 - WARNING - Direct ID approach failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x00461022]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:26:08,196 - INFO - Approaching Production Days via label
+2025-04-10 14:26:09,239 - WARNING - Label approach failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"select.admin__control-multiselect, select[multiple]"}
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x0040DD81]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0040DCA4]
+	(No symbol) [0x0043D2C4]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:26:09,239 - INFO - Trying all multiselects approach
+2025-04-10 14:26:09,244 - INFO - Found 1 multiselects
+2025-04-10 14:26:10,266 - INFO - JavaScript multiselect 1 result: {'selected': ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], 'success': True}
+2025-04-10 14:26:10,266 - INFO - Successfully selected weekdays in multiselect 1
+2025-04-10 14:26:10,269 - INFO - Configuring Delivery section with final optimized approach
+2025-04-10 14:26:11,801 - INFO - Expansion result: Clicked to expand delivery section
+2025-04-10 14:26:13,802 - INFO - Setting VPE value to 9999
+2025-04-10 14:26:13,802 - INFO - Setting VPE value to 9999 using optimized method
+2025-04-10 14:26:13,811 - INFO - DOM manipulation result: Set VPE value to 9999 via DOM manipulation
+2025-04-10 14:26:13,811 - INFO - Selecting VPE Type: Stock
+2025-04-10 14:26:13,811 - INFO - Selecting VPE Type: Stock using producer-style approach
+2025-04-10 14:26:17,847 - INFO - VPE Type field structure: {'found': True, 'labelRect': {'bottom': 547.515625, 'height': 0, 'left': 489.03125, 'right': 549.75, 'toJSON': {}, 'top': 547.515625, 'width': 60.71875, 'x': 489.03125, 'y': 547.515625}, 'structure': {'dropdownLikeCount': 0, 'fieldClasses': 'admin__field', 'firstSelectClasses': 'admin__control-select', 'firstSelectId': 'SWU8D7B', 'firstSelectOptions': ['LFM - Running Meter', 'm²', 'Stock'], 'hasField': True, 'hasMultiselect': False, 'selectCount': 1}}
+2025-04-10 14:26:17,847 - INFO - Found traditional select for VPE Type
+2025-04-10 14:26:17,860 - INFO - Select result: Selected Stock from VPE Type select
+2025-04-10 14:26:17,860 - INFO - Selecting 'Fix Products' option
+2025-04-10 14:26:17,868 - INFO - Fix Products selection result: Selected Fix Products option
+2025-04-10 14:26:17,869 - INFO - Successfully configured Delivery section
+2025-04-10 14:26:17,869 - INFO - Configuring Print Product Setup with CTRL+click for multiple selection
+2025-04-10 14:26:18,913 - INFO - Clicked Print Product Setup
+2025-04-10 14:26:20,917 - INFO - Attempting to select the last option in Product Parts list
+2025-04-10 14:26:21,938 - INFO - Found Product Parts select element
+2025-04-10 14:26:21,938 - WARNING - Standard approach failed: 'WebElement' object has no attribute 'tk'
+2025-04-10 14:26:21,949 - INFO - JavaScript result: {'allOptions': ['5', '20', '30', '50', '100', '200', '500'], 'index': 6, 'message': 'Selected last option', 'success': True, 'text': '500'}
+2025-04-10 14:26:21,949 - INFO - Successfully selected last option using JavaScript: 500
+2025-04-10 14:26:21,958 - INFO - Textarea values set result: {'dateityp': False, 'datencheck': True}
+2025-04-10 14:26:21,958 - INFO - Trying multiselect approach with CTRL+click
+2025-04-10 14:26:23,016 - INFO - Clicked Standard option
+2025-04-10 14:26:24,303 - INFO - CTRL+Clicked Profidatencheck option
+2025-04-10 14:26:26,392 - INFO - Clicked PDF-file option
+2025-04-10 14:26:27,676 - INFO - CTRL+Clicked Image option
+2025-04-10 14:26:28,677 - INFO - Configuring additional settings with improved approach
+2025-04-10 14:26:28,677 - INFO - Configuring Lieferung field
+2025-04-10 14:26:29,716 - INFO - Lieferung selection result: {'selected': ['Standard ( production_standard )', 'Express ( production_express )', 'Standard Plus ( production_standard_plus )'], 'success': True}
+2025-04-10 14:26:29,717 - INFO - Configuring Anzahl field
+2025-04-10 14:26:31,262 - INFO - Selected quantity_1
+2025-04-10 14:26:31,800 - WARNING - Failed to select using Select class: 'WebElement' object has no attribute 'tk'
+2025-04-10 14:26:31,800 - INFO - Configuring Proof Group field
+2025-04-10 14:26:33,359 - INFO - Selected proof_group_digital
+2025-04-10 14:26:33,894 - WARNING - Failed to select using Select class: 'WebElement' object has no attribute 'tk'
+2025-04-10 14:26:33,894 - INFO - Configuring Product Personalization Template field
+2025-04-10 14:26:34,921 - INFO - Template setting result: {'action': 'selected option', 'element': 'select', 'success': True}
+2025-04-10 14:26:34,921 - INFO - Clicking the Save button in the top right corner
+2025-04-10 14:26:45,099 - WARNING - Standard approach failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x00461022]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:26:45,318 - INFO - JavaScript result: Clicked Save button by text
+2025-04-10 14:26:45,319 - INFO - Successfully clicked Save button using JavaScript
+2025-04-10 14:26:55,320 - INFO - Successfully saved product 1: Wrap-Verpackungen mit Automatikboden (Durchmesser 7 cm - Höhe 8,7 cm) einseitig bedruckt 4/0-farbig
+2025-04-10 14:27:02,429 - INFO - ====== WebDriver manager ======
+2025-04-10 14:27:03,353 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-10 14:27:03,419 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-10 14:27:03,490 - INFO - Driver [C:\Users\g.yilmaz\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-10 14:27:04,587 - INFO - Chrome WebDriver initialized successfully
+2025-04-10 14:27:04,587 - INFO - Navigating to PrintNet login page: https://printnet.networkhero.eu/dashboard/admin/
+2025-04-10 14:27:05,661 - INFO - Username entered
+2025-04-10 14:27:05,670 - ERROR - Failed to find password field by ID: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="password"]"}
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x00461022]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:27:05,742 - INFO - Password entered using alternative selector
+2025-04-10 14:27:08,242 - INFO - Login button clicked
+2025-04-10 14:27:21,309 - INFO - Successfully logged in to PrintNet
+2025-04-10 14:27:21,309 - INFO - Successfully logged in to PrintNet
+2025-04-10 14:27:21,309 - INFO - Processing product 1: Wrap-Verpackungen mit Automatikboden (Durchmesser 7 cm - Höhe 8,7 cm) einseitig bedruckt 4/0-farbig (SKU: 1003354)
+2025-04-10 14:27:21,310 - INFO - Clicking on Catalog icon in PrintNet...
+2025-04-10 14:27:21,336 - INFO - Clicking on Products submenu in PrintNet...
+2025-04-10 14:27:22,224 - INFO - Clicking on Add Product button in PrintNet...
+2025-04-10 14:27:23,433 - INFO - Navigated to Add Product page in PrintNet
+2025-04-10 14:27:24,890 - INFO - SKU giriliyor: 1003354
+2025-04-10 14:27:24,990 - INFO - SKU girildi: 1003354
+2025-04-10 14:27:24,990 - INFO - Fiyat giriliyor: 1.00
+2025-04-10 14:27:25,093 - INFO - Fiyat girildi: 1.00
+2025-04-10 14:27:25,094 - INFO - Miktar giriliyor: 99999999
+2025-04-10 14:27:25,165 - INFO - Miktar girildi: 99999999
+2025-04-10 14:27:25,166 - INFO - Setting 'Is Meter Price' to: Yes
+2025-04-10 14:27:25,177 - INFO - Initial scroll position: 0px
+2025-04-10 14:27:25,199 - INFO - Current scroll position after positioning: 496px
+2025-04-10 14:27:25,314 - INFO - Toggle result: Changed 'Is Meter Price' to: Yes
+2025-04-10 14:27:25,374 - INFO - Final scroll position: 496px
+2025-04-10 14:27:25,381 - INFO - Validation confirmed 'Is Meter Price' setting was applied correctly
+2025-04-10 14:27:25,568 - INFO - bannerheld.at seçildi
+2025-04-10 14:27:33,774 - INFO - Updating Product Type to: Upload + Personalization + Configuration using producer-style approach
+2025-04-10 14:27:34,806 - INFO - Clicked General tab
+2025-04-10 14:27:36,807 - INFO - Selecting Product Type: Upload + Personalization + Configuration with producer-style approach
+2025-04-10 14:27:37,856 - INFO - JavaScript Product Type selection result: Selected Upload + Personalization + Configuration using standard select
+2025-04-10 14:27:40,938 - INFO - Looking for Price Calculation field
+2025-04-10 14:27:40,956 - INFO - JavaScript Price Calculation selection result: Selected Fixed using standard select
+2025-04-10 14:27:45,018 - WARNING - Failed to configure Web2Print settings
+2025-04-10 14:27:51,164 - INFO - Selecting weekdays in Production Days multiselect
+2025-04-10 14:27:52,243 - INFO - Clicked Others tab
+2025-04-10 14:27:54,244 - INFO - Trying to select Print Files Options
+2025-04-10 14:27:55,277 - INFO - Found Print Files Options area
+2025-04-10 14:27:55,291 - INFO - JavaScript selection result: {'selected': ['Upload from Account', 'Send to Graphic Department', 'Send by Email', 'Online Designer'], 'success': True}
+2025-04-10 14:27:56,298 - INFO - Trying all multiselects approach
+2025-04-10 14:27:56,301 - INFO - Found 3 multiselects
+2025-04-10 14:27:57,335 - INFO - JavaScript multiselect 1 result: {'selected': [], 'success': False}
+2025-04-10 14:27:58,362 - INFO - JavaScript multiselect 2 result: {'selected': [], 'success': False}
+2025-04-10 14:27:59,382 - INFO - JavaScript multiselect 3 result: {'selected': ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], 'success': True}
+2025-04-10 14:27:59,382 - INFO - Successfully selected weekdays in multiselect 3
+2025-04-10 14:27:59,382 - INFO - Configuring Minimum DPI and Quantity Selectors
+2025-04-10 14:28:00,415 - INFO - Set Minimum DPI to 300
+2025-04-10 14:28:01,450 - INFO - Use Custom Quantity Selector result: {'action': 'enabled', 'success': True}
+2025-04-10 14:28:02,482 - INFO - Use Fixed Price Quantity Selector result: {'action': 'enabled', 'success': True}
+2025-04-10 14:28:02,482 - INFO - Configuring Print Product Setup with CTRL+click for multiple selection
+2025-04-10 14:28:03,553 - INFO - Clicked Print Product Setup
+2025-04-10 14:28:05,554 - INFO - Attempting to select the last option in Product Parts list
+2025-04-10 14:28:06,576 - INFO - Found Product Parts select element
+2025-04-10 14:28:14,247 - INFO - Selected last option (index 1119) from Product Parts list
+2025-04-10 14:28:14,252 - INFO - Textarea values set result: {'dateityp': False, 'datencheck': False}
+2025-04-10 14:28:14,252 - INFO - Trying multiselect approach with CTRL+click
+2025-04-10 14:28:15,328 - INFO - Clicked Standard option
+2025-04-10 14:28:16,605 - INFO - CTRL+Clicked Profidatencheck option
+2025-04-10 14:28:18,681 - INFO - Clicked PDF-file option
+2025-04-10 14:28:19,957 - INFO - CTRL+Clicked Image option
+2025-04-10 14:28:20,958 - INFO - Configuring additional settings with improved approach
+2025-04-10 14:28:20,958 - INFO - Configuring Lieferung field
+2025-04-10 14:28:22,006 - INFO - Lieferung selection result: {'selected': ['Standard ( production_standard )', 'Express ( production_express )', 'Standard Plus ( production_standard_plus )'], 'success': True}
+2025-04-10 14:28:22,006 - INFO - Configuring Anzahl field
+2025-04-10 14:28:23,570 - INFO - Selected quantity_1
+2025-04-10 14:28:24,157 - INFO - Selected quantity_1 using Select class
+2025-04-10 14:28:24,158 - INFO - Configuring Proof Group field
+2025-04-10 14:28:25,729 - INFO - Selected proof_group_digital
+2025-04-10 14:28:26,314 - INFO - Selected proof_group_digital using Select class
+2025-04-10 14:28:26,314 - INFO - Configuring Product Personalization Template field
+2025-04-10 14:28:27,347 - INFO - Template setting result: {'action': 'selected option', 'element': 'select', 'success': True}
+2025-04-10 14:28:27,349 - INFO - Successfully configured all settings in PrintNet for product: Wrap-Verpackungen mit Automatikboden (Durchmesser 7 cm - Höhe 8,7 cm) einseitig bedruckt 4/0-farbig
+2025-04-10 14:28:27,349 - INFO - Successfully configured product: Wrap-Verpackungen mit Automatikboden (Durchmesser 7 cm - Höhe 8,7 cm) einseitig bedruckt 4/0-farbig
+2025-04-10 14:28:27,349 - INFO - Clicking the Save button in the top right corner
+2025-04-10 14:28:37,541 - WARNING - Standard approach failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x005A80E3+60707]
+	GetHandleVerifier [0x005A8124+60772]
+	(No symbol) [0x003D0683]
+	(No symbol) [0x00418660]
+	(No symbol) [0x004189FB]
+	(No symbol) [0x00461022]
+	(No symbol) [0x0043D094]
+	(No symbol) [0x0045E824]
+	(No symbol) [0x0043CE46]
+	(No symbol) [0x0040C5D3]
+	(No symbol) [0x0040D424]
+	GetHandleVerifier [0x007EBBC3+2435075]
+	GetHandleVerifier [0x007E7163+2416035]
+	GetHandleVerifier [0x0080350C+2531660]
+	GetHandleVerifier [0x005BF1B5+155125]
+	GetHandleVerifier [0x005C5B5D+182173]
+	GetHandleVerifier [0x005AF9B8+91640]
+	GetHandleVerifier [0x005AFB60+92064]
+	GetHandleVerifier [0x0059A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-10 14:28:37,767 - INFO - JavaScript result: Clicked Save button by text
+2025-04-10 14:28:37,767 - INFO - Successfully clicked Save button using JavaScript
+2025-04-10 14:28:47,768 - INFO - Successfully saved product: Wrap-Verpackungen mit Automatikboden (Durchmesser 7 cm - Höhe 8,7 cm) einseitig bedruckt 4/0-farbig
+2025-04-10 14:28:49,770 - INFO - CSV processing complete. Added 1 out of 1 products
+2025-04-10 14:28:49,770 - INFO - ====== WebDriver manager ======
+2025-04-10 14:28:50,757 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-10 14:28:50,812 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-10 14:28:50,879 - INFO - Driver [C:\Users\g.yilmaz\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-10 14:28:51,952 - INFO - Navigating to https://skynet.networkhero.eu/y5id_dashboard/admin/
+2025-04-10 14:28:52,831 - INFO - Username entered
+2025-04-10 14:28:52,908 - INFO - Password entered
+2025-04-10 14:28:53,337 - INFO - Login button clicked
+2025-04-10 14:28:53,337 - INFO - Waiting for you to enter Google Authenticator code...

@@ -1,0 +1,145 @@
+2025-04-11 09:51:44,573 - INFO - Logging initialized. Log file: C:\Users\g.yilmaz\Desktop\Magento_otomation\Done\logs\printnet_automation_20250411_095144.log
+2025-04-11 09:51:44,573 - INFO - ====== WebDriver manager ======
+2025-04-11 09:51:45,588 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 09:51:45,653 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 09:51:45,710 - INFO - Driver [C:\Users\g.yilmaz\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 09:51:46,750 - INFO - Chrome WebDriver initialized successfully
+2025-04-11 09:51:46,750 - INFO - Navigating to PrintNet login page: https://printnet.networkhero.eu/dashboard/admin/
+2025-04-11 09:51:47,590 - INFO - Username entered
+2025-04-11 09:51:47,596 - ERROR - Failed to find password field by ID: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="password"]"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x012480E3+60707]
+	GetHandleVerifier [0x01248124+60772]
+	(No symbol) [0x01070683]
+	(No symbol) [0x010B8660]
+	(No symbol) [0x010B89FB]
+	(No symbol) [0x01101022]
+	(No symbol) [0x010DD094]
+	(No symbol) [0x010FE824]
+	(No symbol) [0x010DCE46]
+	(No symbol) [0x010AC5D3]
+	(No symbol) [0x010AD424]
+	GetHandleVerifier [0x0148BBC3+2435075]
+	GetHandleVerifier [0x01487163+2416035]
+	GetHandleVerifier [0x014A350C+2531660]
+	GetHandleVerifier [0x0125F1B5+155125]
+	GetHandleVerifier [0x01265B5D+182173]
+	GetHandleVerifier [0x0124F9B8+91640]
+	GetHandleVerifier [0x0124FB60+92064]
+	GetHandleVerifier [0x0123A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-11 09:51:47,678 - INFO - Password entered using alternative selector
+2025-04-11 09:51:50,064 - INFO - Login button clicked
+2025-04-11 09:51:58,492 - INFO - Successfully logged in to PrintNet
+2025-04-11 09:51:58,492 - INFO - Successfully logged in to PrintNet
+2025-04-11 09:51:58,492 - INFO - Processing product 1: Mappe für DIN A4 2-teilig, 4/4 farbig (Außenseite bedruckt), mit Hochglanz-UV-Lack (SKU: 1004354)
+2025-04-11 09:51:58,494 - INFO - Clicking on Catalog icon in PrintNet...
+2025-04-11 09:51:58,586 - INFO - Clicking on Products submenu in PrintNet...
+2025-04-11 09:51:59,464 - INFO - Clicking on Add Product button in PrintNet...
+2025-04-11 09:52:00,551 - INFO - Navigated to Add Product page in PrintNet
+2025-04-11 09:52:02,078 - INFO - SKU giriliyor: 1004354
+2025-04-11 09:52:02,223 - INFO - SKU girildi: 1004354
+2025-04-11 09:52:02,223 - INFO - Fiyat giriliyor: 1.00
+2025-04-11 09:52:02,330 - INFO - Fiyat girildi: 1.00
+2025-04-11 09:52:02,330 - INFO - Miktar giriliyor: 99999999
+2025-04-11 09:52:02,478 - INFO - Miktar girildi: 99999999
+2025-04-11 09:52:02,481 - INFO - Setting 'Is Meter Price' to: Yes
+2025-04-11 09:52:02,536 - INFO - Initial scroll position: 16px
+2025-04-11 09:52:02,553 - INFO - Current scroll position after positioning: 547px
+2025-04-11 09:52:02,615 - INFO - Toggle result: Changed 'Is Meter Price' to: Yes
+2025-04-11 09:52:02,660 - INFO - Final scroll position: 547px
+2025-04-11 09:52:02,672 - INFO - Validation confirmed 'Is Meter Price' setting was applied correctly
+2025-04-11 09:52:02,888 - INFO - bannerheld.at seçildi
+2025-04-11 09:52:11,352 - INFO - Updating Product Type to: Upload + Personalization + Configuration using producer-style approach
+2025-04-11 09:52:12,387 - INFO - Clicked General tab
+2025-04-11 09:52:14,388 - INFO - Selecting Product Type: Upload + Personalization + Configuration with producer-style approach
+2025-04-11 09:52:15,428 - INFO - JavaScript Product Type selection result: Selected Upload + Personalization + Configuration using standard select
+2025-04-11 09:52:18,563 - INFO - Looking for Price Calculation field
+2025-04-11 09:52:18,581 - INFO - JavaScript Price Calculation selection result: Selected Fixed using standard select
+2025-04-11 09:52:22,644 - WARNING - Failed to configure Web2Print settings
+2025-04-11 09:52:28,791 - INFO - Selecting weekdays in Production Days multiselect
+2025-04-11 09:52:29,874 - INFO - Clicked Others tab
+2025-04-11 09:52:31,875 - INFO - Trying to select Print Files Options
+2025-04-11 09:52:32,910 - INFO - Found Print Files Options area
+2025-04-11 09:52:32,924 - INFO - JavaScript selection result: {'selected': ['Upload from Account', 'Send to Graphic Department', 'Send by Email', 'Online Designer'], 'success': True}
+2025-04-11 09:52:33,929 - INFO - Trying all multiselects approach
+2025-04-11 09:52:33,938 - INFO - Found 3 multiselects
+2025-04-11 09:52:34,964 - INFO - JavaScript multiselect 1 result: {'selected': [], 'success': False}
+2025-04-11 09:52:35,987 - INFO - JavaScript multiselect 2 result: {'selected': [], 'success': False}
+2025-04-11 09:52:37,004 - INFO - JavaScript multiselect 3 result: {'selected': ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], 'success': True}
+2025-04-11 09:52:37,004 - INFO - Successfully selected weekdays in multiselect 3
+2025-04-11 09:52:37,005 - INFO - Configuring Minimum DPI and Quantity Selectors
+2025-04-11 09:52:38,037 - INFO - Set Minimum DPI to 300
+2025-04-11 09:52:39,077 - INFO - Use Custom Quantity Selector result: {'action': 'enabled', 'success': True}
+2025-04-11 09:52:40,111 - INFO - Use Fixed Price Quantity Selector result: {'action': 'enabled', 'success': True}
+2025-04-11 09:52:40,111 - INFO - Configuring Print Product Setup with CTRL+click for multiple selection
+2025-04-11 09:52:41,191 - INFO - Clicked Print Product Setup
+2025-04-11 09:52:43,192 - INFO - Attempting to select the last option in Product Parts list
+2025-04-11 09:52:44,211 - INFO - Found Product Parts select element
+2025-04-11 09:52:53,786 - INFO - Selected last option (index 1121) from Product Parts list
+2025-04-11 09:52:53,792 - INFO - Textarea values set result: {'dateityp': False, 'datencheck': False}
+2025-04-11 09:52:53,793 - INFO - Trying multiselect approach with CTRL+click
+2025-04-11 09:52:54,874 - INFO - Clicked Standard option
+2025-04-11 09:52:56,166 - INFO - CTRL+Clicked Profidatencheck option
+2025-04-11 09:52:58,245 - INFO - Clicked PDF-file option
+2025-04-11 09:52:59,552 - INFO - CTRL+Clicked Image option
+2025-04-11 09:53:00,554 - INFO - Configuring additional settings with improved approach
+2025-04-11 09:53:00,554 - INFO - Configuring Lieferung field
+2025-04-11 09:53:01,606 - INFO - Lieferung selection result: {'selected': ['Standard ( production_standard )', 'Express ( production_express )', 'Standard Plus ( production_standard_plus )'], 'success': True}
+2025-04-11 09:53:01,606 - INFO - Configuring Anzahl field
+2025-04-11 09:53:03,181 - INFO - Selected quantity_1
+2025-04-11 09:53:03,777 - INFO - Selected quantity_1 using Select class
+2025-04-11 09:53:03,777 - INFO - Configuring Proof Group field
+2025-04-11 09:53:05,348 - INFO - Selected proof_group_digital
+2025-04-11 09:53:05,930 - INFO - Selected proof_group_digital using Select class
+2025-04-11 09:53:05,931 - INFO - Configuring Product Personalization Template field
+2025-04-11 09:53:06,962 - INFO - Template setting result: {'action': 'selected option', 'element': 'select', 'success': True}
+2025-04-11 09:53:06,963 - INFO - Successfully configured all settings in PrintNet for product: Mappe für DIN A4 2-teilig, 4/4 farbig (Außenseite bedruckt), mit Hochglanz-UV-Lack
+2025-04-11 09:53:06,963 - INFO - Successfully configured product: Mappe für DIN A4 2-teilig, 4/4 farbig (Außenseite bedruckt), mit Hochglanz-UV-Lack
+2025-04-11 09:53:06,963 - INFO - Clicking the Save button in the top right corner
+2025-04-11 09:53:17,138 - WARNING - Standard approach failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x012480E3+60707]
+	GetHandleVerifier [0x01248124+60772]
+	(No symbol) [0x01070683]
+	(No symbol) [0x010B8660]
+	(No symbol) [0x010B89FB]
+	(No symbol) [0x01101022]
+	(No symbol) [0x010DD094]
+	(No symbol) [0x010FE824]
+	(No symbol) [0x010DCE46]
+	(No symbol) [0x010AC5D3]
+	(No symbol) [0x010AD424]
+	GetHandleVerifier [0x0148BBC3+2435075]
+	GetHandleVerifier [0x01487163+2416035]
+	GetHandleVerifier [0x014A350C+2531660]
+	GetHandleVerifier [0x0125F1B5+155125]
+	GetHandleVerifier [0x01265B5D+182173]
+	GetHandleVerifier [0x0124F9B8+91640]
+	GetHandleVerifier [0x0124FB60+92064]
+	GetHandleVerifier [0x0123A620+4704]
+	BaseThreadInitThunk [0x75897BA9+25]
+	RtlInitializeExceptionChain [0x7765C2EB+107]
+	RtlClearBits [0x7765C26F+191]
+
+2025-04-11 09:53:17,366 - INFO - JavaScript result: Clicked Save button by text
+2025-04-11 09:53:17,367 - INFO - Successfully clicked Save button using JavaScript
+2025-04-11 09:53:27,368 - INFO - Successfully saved product: Mappe für DIN A4 2-teilig, 4/4 farbig (Außenseite bedruckt), mit Hochglanz-UV-Lack
+2025-04-11 09:53:29,368 - INFO - Processing product 2: Mappe für DIN A4 2-teilig, 4/4 farbig (Außenseite bedruckt), mit partieller UV-Lack-Veredelung (SKU: 1004355)
+2025-04-11 09:53:29,368 - INFO - Clicking on Catalog icon in PrintNet...
+2025-04-11 09:53:29,399 - INFO - Clicking on Products submenu in PrintNet...
+2025-04-11 09:53:30,052 - INFO - Clicking on Add Product button in PrintNet...
+2025-04-11 09:53:30,914 - INFO - Navigated to Add Product page in PrintNet
+2025-04-11 09:53:31,917 - INFO - SKU giriliyor: 1004355
+2025-04-11 09:53:32,012 - INFO - SKU girildi: 1004355
+2025-04-11 09:53:32,013 - INFO - Fiyat giriliyor: 1.00
+2025-04-11 09:53:32,100 - INFO - Fiyat girildi: 1.00
+2025-04-11 09:53:32,100 - INFO - Miktar giriliyor: 99999999
+2025-04-11 09:53:32,152 - INFO - Miktar girildi: 99999999
+2025-04-11 09:53:32,155 - INFO - Setting 'Is Meter Price' to: Yes
+2025-04-11 09:53:32,192 - INFO - Initial scroll position: 16px
+2025-04-11 09:53:32,217 - INFO - Current scroll position after positioning: 547px
